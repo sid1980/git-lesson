@@ -37,6 +37,8 @@ git add 1.txt
 git commit -m " lets go to eat"
 : double_add_text
 
+git branch
+git checkout -b dev-master
 
 echo Press ENTER to execute the command
 Pause>nul

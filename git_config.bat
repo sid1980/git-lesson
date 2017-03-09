@@ -20,7 +20,7 @@ Pause>nul
 :config_notepad
 
 cls
-git config --global core.editor "d:/Program Files/Notepad++/notepad++.exe -lxml d"
+git config --global core.editor "'D:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"
 git config -l 
 echo Press ENTER to execute the command
-Pause >nul
+Rem Pause >nul
